@@ -107,7 +107,7 @@ select f, "This file is similar to $@.", other, other.getBaseName()
 
 3. Element for placeholder: `other` corresponds to the similar file.
 
-    > 占位符的元素：其他对应于相似的文件。
+    > 占位符的元素：other对应于相似的文件。
 
 4. String text for placeholder: the short file name returned by `other.getBaseName()`.
 
